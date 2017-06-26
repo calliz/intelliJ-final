@@ -7,7 +7,6 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.mustache" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -27,13 +26,13 @@
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.m</mask>
       <mask>*.mus</mask>
       <mask>*.must</mask>
       <mask>*.musta</mask>
       <mask>*.mustach</mask>
       <mask>*.mustache</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
