@@ -9,13 +9,11 @@
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>_</mask>
       <mask>*,.</mask>
       <mask>*,.a</mask>
       <mask>*,</mask>
-      <mask>*.j</mask>
       <mask>*.jaa</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
@@ -37,6 +35,8 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
