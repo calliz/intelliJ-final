@@ -7,38 +7,38 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>_</mask>
-      <mask>*,.</mask>
-      <mask>*,.a</mask>
-      <mask>*,</mask>
-      <mask>*.jaa</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
-      <mask>*.m</mask>
-      <mask>*.mus</mask>
-      <mask>*.must</mask>
-      <mask>*.musta</mask>
-      <mask>*.mustach</mask>
-      <mask>*.mustache</mask>
-      <mask>.c</mask>
-      <mask>.scss</mask>
-      <mask>.scs</mask>
       <mask>.sc</mask>
       <mask>.s</mask>
       <mask>.</mask>
       <mask>.cs</mask>
       <mask>.css</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>-</mask>
+      <mask>-m</mask>
+      <mask>-mus</mask>
+      <mask>-mustache</mask>
+      <mask>-mustach</mask>
+      <mask>-mustac</mask>
+      <mask>-musta</mask>
+      <mask>-must</mask>
+      <mask>*</mask>
+      <mask>*.m</mask>
+      <mask>*.mus</mask>
+      <mask>*.must</mask>
+      <mask>*.musta</mask>
+      <mask>*.mustache</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
+      <mask>*.hjav</mask>
+      <mask>*.hja</mask>
+      <mask>*.hj</mask>
+      <mask>*.h</mask>
       <mask>*.</mask>
-      <mask>*</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
