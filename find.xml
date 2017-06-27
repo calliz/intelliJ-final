@@ -1,24 +1,16 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="fromCursor" value="false" />
     <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>.ja</mask>
-      <mask>.java</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.,m</mask>
-      <mask>*.,ust</mask>
-      <mask>*.,us</mask>
-      <mask>*.,u</mask>
-      <mask>*.,</mask>
       <mask>*.mu</mask>
       <mask>*.mustac</mask>
       <mask>js</mask>
@@ -29,16 +21,26 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>css</mask>
-      <mask>*.</mask>
-      <mask>*.m</mask>
       <mask>*.must</mask>
-      <mask>*.musta</mask>
       <mask>*.mustach</mask>
-      <mask>*.mustache</mask>
-      <mask>*</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.,</mask>
+      <mask>*.,jus</mask>
+      <mask>*.,just</mask>
+      <mask>*.,justace</mask>
+      <mask>*.,justac</mask>
+      <mask>*.,justa</mask>
+      <mask>*.m</mask>
+      <mask>*.mus</mask>
+      <mask>*.musta</mask>
+      <mask>*.mustache</mask>
+      <mask>*.jav</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
