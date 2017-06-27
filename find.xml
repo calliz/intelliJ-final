@@ -9,38 +9,38 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.mustache" />
     <recentFileMasks>
-      <mask>*.mu</mask>
-      <mask>*.mustac</mask>
-      <mask>js</mask>
-      <mask>*js</mask>
-      <mask>Ä*,</mask>
-      <mask>Ä*</mask>
       <mask>Ä</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>css</mask>
-      <mask>*.must</mask>
       <mask>*.mustach</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.,</mask>
       <mask>*.,jus</mask>
       <mask>*.,just</mask>
       <mask>*.,justace</mask>
       <mask>*.,justac</mask>
       <mask>*.,justa</mask>
-      <mask>*.m</mask>
       <mask>*.mus</mask>
-      <mask>*.musta</mask>
-      <mask>*.mustache</mask>
+      <mask>*.java</mask>
       <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.,usta</mask>
+      <mask>*.,ust</mask>
+      <mask>*.,us</mask>
+      <mask>*.,u</mask>
+      <mask>*.,</mask>
+      <mask>*-.</mask>
+      <mask>*-</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
+      <mask>*.m</mask>
+      <mask>*.must</mask>
+      <mask>*.musta</mask>
+      <mask>*.mustache</mask>
     </recentFileMasks>
   </component>
 </application>
