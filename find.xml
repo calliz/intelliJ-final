@@ -8,10 +8,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*</mask>
-      <mask>static</mask>
-      <mask>stati</mask>
       <mask>ja</mask>
       <mask>.</mask>
       <mask>.ja</mask>
@@ -30,14 +26,18 @@
       <mask>*.musta</mask>
       <mask>*.mustac</mask>
       <mask>*.mustache</mask>
-      <mask>*.</mask>
       <mask>js</mask>
       <mask>*js</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>Ä*,</mask>
+      <mask>Ä*</mask>
+      <mask>Ä</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
