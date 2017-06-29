@@ -9,9 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.,us</mask>
       <mask>*.,u</mask>
       <mask>*.,</mask>
       <mask>*-.</mask>
@@ -32,15 +30,16 @@
       <mask>*.myu</mask>
       <mask>*.my</mask>
       <mask>*.ms</mask>
-      <mask>*.m</mask>
       <mask>*.mustachew</mask>
+      <mask>*.must</mask>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.must</mask>
+      <mask>*.m</mask>
+      <mask>*.mus</mask>
       <mask>*.musta</mask>
       <mask>*.mustach</mask>
       <mask>*.mustache</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
