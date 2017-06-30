@@ -11,12 +11,6 @@
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.mustache" />
     <recentFileMasks>
-      <mask>*.,u</mask>
-      <mask>*.,</mask>
-      <mask>*-.</mask>
-      <mask>*-</mask>
-      <mask>*</mask>
-      <mask>*..</mask>
       <mask>*..java</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
@@ -32,14 +26,20 @@
       <mask>*.my</mask>
       <mask>*.ms</mask>
       <mask>*.mustachew</mask>
-      <mask>*.must</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.m</mask>
       <mask>*.mus</mask>
-      <mask>*.musta</mask>
       <mask>*.mustach</mask>
+      <mask>*.p</mask>
+      <mask>*.phr</mask>
+      <mask>*.phra</mask>
+      <mask>*.phras</mask>
+      <mask>*.phrase</mask>
+      <mask>*.phrases</mask>
+      <mask>*.m</mask>
+      <mask>*.must</mask>
+      <mask>*.musta</mask>
       <mask>*.mustache</mask>
     </recentFileMasks>
   </component>
