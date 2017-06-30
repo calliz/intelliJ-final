@@ -9,7 +9,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
       <mask>*.myst</mask>
       <mask>*.mys</mask>
@@ -19,14 +18,11 @@
       <mask>cs</mask>
       <mask>css</mask>
       <mask>*css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
       <mask>*.,usta</mask>
       <mask>*.,ust</mask>
       <mask>*.,us</mask>
       <mask>*.,u</mask>
       <mask>*.,</mask>
-      <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.mutsache</mask>
       <mask>*.mutsach</mask>
@@ -36,11 +32,14 @@
       <mask>*.mut</mask>
       <mask>*.mu</mask>
       <mask>*.mus</mask>
+      <mask>*.mustac</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
       <mask>*.must</mask>
       <mask>*.musta</mask>
-      <mask>*.mustac</mask>
       <mask>*.mustache</mask>
-      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
