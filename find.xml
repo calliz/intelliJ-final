@@ -9,11 +9,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.myst</mask>
-      <mask>*.mys</mask>
-      <mask>*.my</mask>
-      <mask>*.,m</mask>
       <mask>c</mask>
       <mask>cs</mask>
       <mask>css</mask>
@@ -40,6 +37,10 @@
       <mask>*.must</mask>
       <mask>*.musta</mask>
       <mask>*.mustache</mask>
+      <mask>java</mask>
+      <mask>*,java</mask>
+      <mask>*java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
