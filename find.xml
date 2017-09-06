@@ -9,7 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.mustache" />
     <recentFileMasks>
       <mask>*.,ust</mask>
       <mask>*.,us</mask>
@@ -23,7 +23,6 @@
       <mask>*.mut</mask>
       <mask>*.mu</mask>
       <mask>*.mus</mask>
-      <mask>*.mustac</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
@@ -32,15 +31,16 @@
       <mask>*java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
+      <mask>*.mustach</mask>
+      <mask>*.javaache</mask>
+      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.must</mask>
       <mask>*.musta</mask>
-      <mask>*.mustach</mask>
+      <mask>*.mustac</mask>
       <mask>*.mustache</mask>
-      <mask>*.javaache</mask>
-      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
