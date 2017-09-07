@@ -7,9 +7,8 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.mutsa</mask>
-      <mask>*.muts</mask>
       <mask>*.mut</mask>
       <mask>*.mu</mask>
       <mask>*.mus</mask>
@@ -19,11 +18,8 @@
       <mask>java</mask>
       <mask>*,java</mask>
       <mask>*java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.javaache</mask>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
       <mask>*.muist</mask>
       <mask>*.muista</mask>
       <mask>*.muistache</mask>
@@ -38,6 +34,11 @@
       <mask>*.mustac</mask>
       <mask>*.mustache</mask>
       <mask>*.mustach</mask>
+      <mask>*.jva</mask>
+      <mask>*.jv</mask>
+      <mask>*.j</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
