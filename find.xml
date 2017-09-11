@@ -6,11 +6,6 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.mut</mask>
-      <mask>*.mu</mask>
-      <mask>*.mus</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>java</mask>
       <mask>*,java</mask>
@@ -25,17 +20,22 @@
       <mask>Ä</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.m</mask>
-      <mask>*.must</mask>
-      <mask>*.musta</mask>
-      <mask>*.mustac</mask>
-      <mask>*.mustache</mask>
-      <mask>*.mustach</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
       <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.m</mask>
+      <mask>*.mu</mask>
+      <mask>*.mus</mask>
+      <mask>*.must</mask>
+      <mask>*.mustash</mask>
+      <mask>*.mustas</mask>
+      <mask>*.musta</mask>
+      <mask>*.mustace</mask>
+      <mask>*.mustac</mask>
+      <mask>*.mustach</mask>
+      <mask>*.mustache</mask>
     </recentFileMasks>
   </component>
 </application>
