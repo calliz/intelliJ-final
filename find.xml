@@ -6,7 +6,6 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.c</mask>
       <mask>java</mask>
       <mask>*,java</mask>
       <mask>*java</mask>
@@ -36,6 +35,7 @@
       <mask>*.mustac</mask>
       <mask>*.mustach</mask>
       <mask>*.mustache</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
