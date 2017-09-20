@@ -5,8 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>java</mask>
       <mask>*,java</mask>
       <mask>*java</mask>
       <mask>*.ja</mask>
@@ -20,22 +20,23 @@
       <mask>*</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.mu</mask>
       <mask>*.mus</mask>
       <mask>*.mustash</mask>
       <mask>*.mustas</mask>
       <mask>*.mustace</mask>
       <mask>*.mustac</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.must</mask>
       <mask>*.musta</mask>
       <mask>*.mustach</mask>
       <mask>*.mustache</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
