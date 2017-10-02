@@ -1,20 +1,16 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="fromCursor" value="false" />
     <option name="regularExpressions" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.phrases" />
     <recentFileMasks>
-      <mask>*,java</mask>
-      <mask>*java</mask>
-      <mask>*.ja</mask>
-      <mask>*.javaache</mask>
-      <mask>*.muist</mask>
-      <mask>*.muista</mask>
-      <mask>*.muistache</mask>
       <mask>*.muistach</mask>
       <mask>Ä*</mask>
       <mask>Ä</mask>
@@ -33,11 +29,18 @@
       <mask>*.mustach</mask>
       <mask>*.mustache</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.a</mask>
-      <mask>*.</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.phr</mask>
+      <mask>*.phra</mask>
+      <mask>*.phras</mask>
+      <mask>*.phrase</mask>
+      <mask>*.phrases</mask>
     </recentFileMasks>
   </component>
 </application>
