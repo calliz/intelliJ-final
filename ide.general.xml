@@ -7,6 +7,5 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
-    <entry key="allow.dialog.based.popups" value="false" />
   </component>
 </application>
