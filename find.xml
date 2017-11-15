@@ -27,15 +27,15 @@
       <mask>*-.</mask>
       <mask>*-</mask>
       <mask>*</mask>
-      <mask>*.must</mask>
-      <mask>*.musta</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.,m</mask>
       <mask>*.,</mask>
       <mask>*.</mask>
+      <mask>*.java</mask>
       <mask>*.m</mask>
+      <mask>*.must</mask>
+      <mask>*.musta</mask>
       <mask>*.mustache</mask>
     </recentFileMasks>
   </component>
