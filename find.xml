@@ -5,13 +5,8 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.phrases" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>*.phr</mask>
-      <mask>*.phra</mask>
-      <mask>*.phras</mask>
-      <mask>*.phrase</mask>
-      <mask>*.phrases</mask>
       <mask>*.javae</mask>
       <mask>*-.</mask>
       <mask>*-</mask>
@@ -25,10 +20,8 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.mst</mask>
       <mask>*.m</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>*m</mask>
       <mask>*must</mask>
@@ -36,6 +29,14 @@
       <mask>*mustache</mask>
       <mask>*.mustache</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.phr</mask>
+      <mask>*.phra</mask>
+      <mask>*.phras</mask>
+      <mask>*.phrase</mask>
+      <mask>*.phrases</mask>
     </recentFileMasks>
   </component>
 </application>
