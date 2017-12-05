@@ -8,7 +8,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.,</mask>
       <mask>*.mus</mask>
       <mask>*.mustahc</mask>
       <mask>*.mustah</mask>
@@ -25,19 +24,20 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ph</mask>
-      <mask>*.</mask>
       <mask>*.must</mask>
       <mask>*.musta</mask>
       <mask>*.mustache</mask>
+      <mask>*.txt</mask>
+      <mask>*.tx</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.phr</mask>
       <mask>*.phra</mask>
       <mask>*.phras</mask>
       <mask>*.phrase</mask>
+      <mask>*.phrasee</mask>
       <mask>*.phrases</mask>
-      <mask>*.t</mask>
-      <mask>*.tx</mask>
-      <mask>*.txt</mask>
     </recentFileMasks>
   </component>
 </application>
