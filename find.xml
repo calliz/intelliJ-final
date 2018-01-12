@@ -7,6 +7,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.phrases" />
     <recentFileMasks>
       <mask>*.mus</mask>
       <mask>*.mustahc</mask>
