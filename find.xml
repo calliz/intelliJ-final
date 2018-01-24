@@ -5,15 +5,14 @@
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.mustache" />
     <recentFileMasks>
-      <mask>*.mus</mask>
       <mask>*.mustahc</mask>
       <mask>*.mustah</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.mst</mask>
-      <mask>*.m</mask>
       <mask>*</mask>
       <mask>*m</mask>
       <mask>*must</mask>
@@ -22,9 +21,7 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ph</mask>
-      <mask>*.must</mask>
       <mask>*.musta</mask>
-      <mask>*.mustache</mask>
       <mask>*.txt</mask>
       <mask>*.tx</mask>
       <mask>*.t</mask>
@@ -36,6 +33,10 @@
       <mask>*.phrase</mask>
       <mask>*.phrasee</mask>
       <mask>*.phrases</mask>
+      <mask>*.m</mask>
+      <mask>*.must</mask>
+      <mask>*.mustac</mask>
+      <mask>*.mustache</mask>
     </recentFileMasks>
   </component>
 </application>
