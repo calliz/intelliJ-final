@@ -33,9 +33,9 @@
       <mask>*.m</mask>
       <mask>*.must</mask>
       <mask>*.mustac</mask>
-      <mask>*.mustache</mask>
       <mask>*.phrases</mask>
       <mask>*.java</mask>
+      <mask>*.mustache</mask>
     </recentFileMasks>
   </component>
 </application>
