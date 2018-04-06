@@ -1,0 +1,16 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1468912996402" />
+          <option name="importOrderConfigFilePath" value="$USER_HOME$/Downloads/eclipseneon.importorder" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/NetsetJavaConventions2016-08-02.xml" />
+          <option name="selectedJavaProfile" value="Netset Java Conventions 2016-08-02" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>
