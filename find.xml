@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="fromCursor" value="false" />
+    <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>*.mustah</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.mst</mask>
+      <mask>*</mask>
+      <mask>*m</mask>
+      <mask>*must</mask>
+      <mask>*musta</mask>
+      <mask>*mustache</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.ph</mask>
+      <mask>*.musta</mask>
+      <mask>*.txt</mask>
+      <mask>*.tx</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.phr</mask>
+      <mask>*.phra</mask>
+      <mask>*.phras</mask>
+      <mask>*.phrase</mask>
+      <mask>*.phrasee</mask>
+      <mask>*.m</mask>
+      <mask>*.must</mask>
+      <mask>*.mustac</mask>
+      <mask>*.phrases</mask>
+      <mask>*.java</mask>
+      <mask>*.mustache</mask>
+      <mask>*.scss</mask>
+    </recentFileMasks>
+  </component>
+</application>
